@@ -1,0 +1,33 @@
+packages/web-demo/src/workers/mandelbrot-worker.ts
+  s_ce7b70e18a8c57::t_703483019584e9 1-4
+packages/web-demo/src/demo-lib/mandelbrot-kernel.ts
+  s_ce7b70e18a8c57::t_5fc5a90e49954b 1-65
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_291c06425a908a 7
+packages/web-demo/src/routes/plasma.tsx
+  s_ce7b70e18a8c57::t_2cfa0cf559a5b2 2,5-10,23-25,39-42
+packages/web-demo/src/workers/plasma-worker.ts
+  s_ce7b70e18a8c57::t_753a08118591e6 1-2,4
+packages/web-demo/src/routes/mandelbrot.tsx
+  s_ce7b70e18a8c57::t_8bdd71b2e0709e 1-42
+packages/web-demo/src/workers/run-worker.ts
+  s_ce7b70e18a8c57::t_34aac9e4695d63 1-70
+packages/web-demo/src/demo-lib/variants.tsx
+  s_ce7b70e18a8c57::t_3bf8a05c5763c7 1-408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "2d331d8837374dd158fd8afd6ea17c1ad70f130e",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
