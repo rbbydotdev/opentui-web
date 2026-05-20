@@ -1,0 +1,65 @@
+packages/opentui-browser/src/canvas-gpu-painter.ts
+  s_ce7b70e18a8c57::t_d9242a7532d287 1-345
+packages/opentui-browser/src/cell-grid.ts
+  s_ce7b70e18a8c57::t_0aa4450f7a9176 1-71
+packages/web-demo/src/workers/run-worker.ts
+  s_ce7b70e18a8c57::t_bdd5a2329a8693 1-7,14,21,25,30-44,47,60,73,92-109
+packages/opentui-browser/tsconfig.json
+  s_ce7b70e18a8c57::t_d51a140f00b862 7
+packages/web-demo/src/demo-lib/VariantPicker.tsx
+  s_ce7b70e18a8c57::t_386c11a073874f 81
+  s_ce7b70e18a8c57::t_17b9427c01e68b 82
+  s_ce7b70e18a8c57::t_c622927308527c 10,14,20-27
+  s_ce7b70e18a8c57::t_a3b3e20d65b1ba 57-58
+  s_ce7b70e18a8c57::t_bcd8fbc7e33264 122-125
+  s_ce7b70e18a8c57::t_c1609a135a86bf 53,55
+  s_ce7b70e18a8c57::t_bc472355c4d376 115-117,119-121
+  s_ce7b70e18a8c57::t_389d12c45bb30e 118
+  s_ce7b70e18a8c57::t_cb170dc5f3baae 11-12,28-29
+  s_ce7b70e18a8c57::t_9bfca46683de82 51,54,56
+  s_ce7b70e18a8c57::t_95cd347d1e50d8 9
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_0402185c47ff97 24
+  s_ce7b70e18a8c57::t_24997fb53be75f 23,25-26
+pnpm-lock.yaml
+  ai_agent 16-19
+packages/opentui-browser/src/canvas-gl-painter.ts
+  s_ce7b70e18a8c57::t_fbd7567df036c7 1-330
+  s_ce7b70e18a8c57::t_ee8483fa384bb5 331-333
+packages/opentui-browser/src/canvas-painter.ts
+  s_ce7b70e18a8c57::t_806f4a379bd9b4 89-92
+  s_ce7b70e18a8c57::t_adb208c95b2a74 19
+  s_ce7b70e18a8c57::t_2b1f4b4a75bb3c 53-55
+packages/web-demo/src/demo-lib/variants.tsx
+  s_ce7b70e18a8c57::t_9fe83b6eb01079 593
+  s_ce7b70e18a8c57::t_bd90d61a283715 15
+  s_ce7b70e18a8c57::t_8add3b23a6107a 541
+  s_ce7b70e18a8c57::t_4bccf7d918b878 594
+  s_ce7b70e18a8c57::t_2e0fe9043c9c2e 539-540,542-558,560-582,595-658,660,670-677,679-682,684-689,691-700,705-706
+  s_ce7b70e18a8c57::t_25cbf46ff3105b 659,678,683,690,701-704
+  s_ce7b70e18a8c57::t_0804c7a88fcc1a 16
+  s_ce7b70e18a8c57::t_0efbaaf4d2a697 661-669
+  s_ce7b70e18a8c57::t_cc031d8e04ca6f 707-815
+  s_ce7b70e18a8c57::t_c21289233f4570 583-592
+  s_ce7b70e18a8c57::t_41a115cb86da39 21,24
+  s_ce7b70e18a8c57::t_92575e655aa29f 816-927
+  s_ce7b70e18a8c57::t_11271aac51b98f 559
+packages/opentui-browser/package.json
+  s_ce7b70e18a8c57::t_2fba48455f878d 25-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "e0303391d7521f4e0f50044b204e4333496d2a30",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
