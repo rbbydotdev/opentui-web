@@ -1,0 +1,19 @@
+packages/web-demo/src/routes/layout.tsx
+  s_ce7b70e18a8c57::t_f8db207572cb41 5-6,8,20,24-60,64-66,73-78,107-108,139-172,228,249,252-267,280,289-306,315
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "50c5475dcff302ca92998210c8fb96d2bcfe7efd",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
