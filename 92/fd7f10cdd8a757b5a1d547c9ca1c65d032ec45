@@ -1,0 +1,19 @@
+packages/web-demo/src/main.tsx
+  s_ce7b70e18a8c57::t_d1afcf3efa35d0 5-10,15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "92fd7f10cdd8a757b5a1d547c9ca1c65d032ec45",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
