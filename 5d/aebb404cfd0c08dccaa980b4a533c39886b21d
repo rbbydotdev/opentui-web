@@ -1,0 +1,25 @@
+packages/web-demo/src/routes/plasma-canvas.tsx
+  s_ce7b70e18a8c57::t_b6e736bc387095 1-137
+packages/opentui-browser/src/canvas-painter.ts
+  s_ce7b70e18a8c57::t_9006e24c651a63 1-162
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_f30425f1a66442 8
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_193b905212d13b 16-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "5daebb404cfd0c08dccaa980b4a533c39886b21d",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
