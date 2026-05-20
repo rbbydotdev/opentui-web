@@ -1,0 +1,29 @@
+packages/web-demo/src/demo-lib/useOpentuiTerminal.ts
+  s_ce7b70e18a8c57::t_ae3bb8343c4a06 2,15,23-27,31-33,39-40,43-44,46,51-52,55-71,75,79,87-88,91-107,118,121,142,144,149-151,153
+packages/web-demo/src/routes/plasma.tsx
+  s_ce7b70e18a8c57::t_62c10d1f605730 4,11-13,20,27-32
+packages/web-demo/src/routes/dashboard.tsx
+  s_ce7b70e18a8c57::t_aeb98750c56326 13,43-59,67-71,75,77-78,83,88-89,91-93,99,102,106-116,122-123,126-139,143,154-155,159-160,164-167,183,197
+packages/web-demo/src/routes/counter.tsx
+  s_ce7b70e18a8c57::t_cb10d68e8537ec 5,43-44,47-48,50,69
+packages/web-demo/src/demo-lib/draw-primitives.ts
+  s_ce7b70e18a8c57::t_2c7e32ab66511f 54-56,58-59
+packages/web-demo/src/routes/matrix.tsx
+  s_ce7b70e18a8c57::t_93538a056abfef 26-27,32-38,43,45,50,53,61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "dba7e9b6765b71fe65953f5653b06a1f193655fb",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
