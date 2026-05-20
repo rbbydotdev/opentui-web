@@ -1,0 +1,81 @@
+packages/web-demo/.cta.json
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-17
+packages/web-demo/README.md
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-193
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-28
+packages/opentui/packages/core/src/zig/build.zig
+  s_ce7b70e18a8c57::t_07a4bcfff5d720 166-189
+packages/opentui/packages/core/src/zig/lib-wasm.zig
+  s_ce7b70e18a8c57::t_0f269f792318ef 1-148
+packages/opentui-browser/package.json
+  s_ce7b70e18a8c57::t_7e999817605323 1-17
+packages/web-demo/.gitignore
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-13
+packages/web-demo/index.html
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-13
+packages/web-demo/src/router.tsx
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-19
+pnpm-workspace.yaml
+  s_ce7b70e18a8c57::t_0b341767c123aa 1-4
+packages/web-demo/tsconfig.json
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-28
+.gitignore
+  s_ce7b70e18a8c57::t_abcff6cb6f666f 1-9,11-12
+  s_ce7b70e18a8c57::t_353ab0c8bd0c2f 10,13-16
+packages/web-demo/src/routes/index.tsx
+  s_ce7b70e18a8c57::t_1eca62a26cd832 2-3,8-13,18-23,25-26,29,31-33,36,40-42,92-100,102-105,107-110,113-121
+  s_ce7b70e18a8c57::t_81429583179e30 91
+  s_ce7b70e18a8c57::t_5687b4b943ca42 45
+  s_ce7b70e18a8c57::t_f13d9962e60b80 4,14-16,24,27-28,30,34-35,37-39,43-44,46-90,101,111-112
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1,5-7,17,106,122-124
+packages/opentui-browser/src/wasm.ts
+  s_ce7b70e18a8c57::t_0584f7f9239253 1-65
+packages/web-demo/public/robots.txt
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-3
+packages/web-demo/public/manifest.json
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-25
+packages/web-demo/package.json
+  s_ce7b70e18a8c57::t_ebca222e6b0213 22
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-19,21,23-48
+  s_ce7b70e18a8c57::t_d174ce45bb3b58 20
+packages/web-demo/src/styles.css
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-17
+packages/opentui-browser/tsconfig.json
+  s_ce7b70e18a8c57::t_9a5c6b75b3116c 1-17
+mise.toml
+  s_ce7b70e18a8c57::t_3ccff426a1244a 1-4
+packages/opentui-browser/src/buffer.ts
+  s_ce7b70e18a8c57::t_e3fa0f0190345e 6
+  s_ce7b70e18a8c57::t_bc565a5ae3fce1 1-5,7-124
+packages/web-demo/src/main.tsx
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-22
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_f2d2e048d27aef 1-6
+.zig-version
+  s_ce7b70e18a8c57::t_232aab5334094a 1
+package.json
+  s_ce7b70e18a8c57::t_c3274788986df9 1-5
+packages/opentui-browser/src/ansi.ts
+  s_ce7b70e18a8c57::t_4307286757db29 8
+  s_ce7b70e18a8c57::t_cc670720300192 62
+  s_ce7b70e18a8c57::t_cda9538db740ca 1-7,9-61,63-86
+packages/web-demo/vite.config.ts
+  s_ce7b70e18a8c57::t_5fc6a4589effcb 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "a32ebe04115e9087484ab4afa76316f98b9cde67",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
