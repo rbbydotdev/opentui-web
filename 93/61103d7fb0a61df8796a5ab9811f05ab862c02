@@ -1,0 +1,55 @@
+packages/web-demo/src/workers/fire-worker.ts
+  s_ce7b70e18a8c57::t_f9d0927f8e08fb 1-5
+packages/web-demo/src/workers/run-worker.ts
+  s_ce7b70e18a8c57::t_eed826b3165808 37-38,50,58,63,68-71,73
+  s_ce7b70e18a8c57::t_a8807f6b780c06 5-10,13-15,19
+packages/web-demo/src/demo-lib/fire-kernel.ts
+  s_ce7b70e18a8c57::t_771493299ff4f4 1-73
+packages/web-demo/src/routes/matrix.tsx
+  s_ce7b70e18a8c57::t_fea977a17a8294 2-4,6,8-9,11-12,14,16-18
+packages/web-demo/src/demo-lib/variants.tsx
+  s_ce7b70e18a8c57::t_544178b3f24976 87,131,137-139,146-151,166,168-178
+  s_ce7b70e18a8c57::t_a23a4c6a90e565 283
+  s_ce7b70e18a8c57::t_b8a05043354a9e 194,206,224-228,235-237,242
+  s_ce7b70e18a8c57::t_73b5fe9b92b051 185,188
+  s_ce7b70e18a8c57::t_c1a6d3a80a669e 79,82
+  s_ce7b70e18a8c57::t_efd1dcf707077e 39-44,51-52,55,62-67
+  s_ce7b70e18a8c57::t_130b6a0f289f84 360,366-368,375-379,394,396-406
+  s_ce7b70e18a8c57::t_876550d048bc2f 14-20,23-29
+  s_ce7b70e18a8c57::t_9e6fa413154212 285-295
+  s_ce7b70e18a8c57::t_cc862e38153efa 300,305
+packages/web-demo/src/routes/plasma.tsx
+  s_ce7b70e18a8c57::t_ccabfd36a7f5b5 3,12-17
+packages/web-demo/src/workers/matrix-worker.ts
+  s_ce7b70e18a8c57::t_c721d27f50ac56 1-5
+packages/web-demo/src/routes/mandelbrot.tsx
+  s_ce7b70e18a8c57::t_f9c84b0ce32771 3,12-18
+packages/web-demo/src/routes/fire.tsx
+  s_ce7b70e18a8c57::t_cb2caff6cdb034 2-4,6,8-9,11-14,16,18-21
+packages/web-demo/src/demo-lib/dashboard-kernel.ts
+  s_ce7b70e18a8c57::t_b9b80851909122 1-168
+packages/web-demo/src/demo-lib/VariantPicker.tsx
+  s_ce7b70e18a8c57::t_322a9cb4a45838 1-84
+packages/web-demo/src/demo-lib/matrix-kernel.ts
+  s_ce7b70e18a8c57::t_3d6c04e53ee32f 1-58
+packages/web-demo/src/workers/dashboard-worker.ts
+  s_ce7b70e18a8c57::t_5de5daf8405067 1-5
+packages/web-demo/src/routes/dashboard.tsx
+  s_ce7b70e18a8c57::t_0dc45dbace1dcb 2-4,6,8-9,11-12,14,16-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "9361103d7fb0a61df8796a5ab9811f05ab862c02",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
