@@ -1,0 +1,23 @@
+packages/web-demo/src/routes/plasma.tsx
+  s_ce7b70e18a8c57::t_705cc33d48942b 2-14,16-24,26-41,44-409
+packages/web-demo/src/demo-lib/VariantToggle.tsx
+  s_ce7b70e18a8c57::t_b360356f9fc331 1-31
+packages/web-demo/src/demo-lib/plasma-kernel.ts
+  s_ce7b70e18a8c57::t_fb07e93cb0967e 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "2e57583c520382cc84ebf92c600887c0e58f56c2",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
