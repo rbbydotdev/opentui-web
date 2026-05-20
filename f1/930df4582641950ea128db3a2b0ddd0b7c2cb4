@@ -1,0 +1,36 @@
+packages/opentui-browser/src/ansi.ts
+  s_ce7b70e18a8c57::t_fdec642a6ae760 42-54
+packages/web-demo/src/routes/plasma-worker.tsx
+  s_ce7b70e18a8c57::t_21d6b7ee5a4b0f 51-63
+  s_ce7b70e18a8c57::t_5767c71b25d75b 1-50,64-162
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_fed6e3f5fb7009 1-6
+  s_ce7b70e18a8c57::t_a7e05051c7412b 13
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_1d1efe6204116c 7
+packages/web-demo/src/routes/layout.tsx
+  s_ce7b70e18a8c57::t_ec7f2216cf4aa0 5-8
+packages/web-demo/src/workers/plasma-worker.ts
+  s_ce7b70e18a8c57::t_f3a4657e301aa8 23-27
+  s_ce7b70e18a8c57::t_24c93f71a02356 18
+  s_ce7b70e18a8c57::t_4b45c696feda36 64-66
+  s_ce7b70e18a8c57::t_3db4f5d9347ff1 1-17,19-22,28-63,67-103
+packages/opentui-browser/package.json
+  s_ce7b70e18a8c57::t_efad4e3235d89d 14-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "f1930df4582641950ea128db3a2b0ddd0b7c2cb4",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
