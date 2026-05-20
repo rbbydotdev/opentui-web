@@ -1,0 +1,52 @@
+packages/opentui/packages/core/src/zig/lib-wasm.zig
+  s_ce7b70e18a8c57::t_c054af7b2519cc 274-416
+  s_ce7b70e18a8c57::t_e8eb79c6497f39 10
+packages/web-demo/src/routes/layout.tsx
+  s_ce7b70e18a8c57::t_4c1818ad127931 225-226
+  s_ce7b70e18a8c57::t_6a80276356a972 208,210
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_242b73667ff809 13-18
+packages/web-demo/src/demo-lib/useOpentuiTerminal.ts
+  s_ce7b70e18a8c57::t_be67efeaeb1bde 48
+  s_ce7b70e18a8c57::t_d4cbee19b556f4 127
+  s_ce7b70e18a8c57::t_2aea903d57211c 164
+  s_ce7b70e18a8c57::t_0390c846cd47a9 24-27
+  s_ce7b70e18a8c57::t_ddff37dc52dcc2 3
+  s_ce7b70e18a8c57::t_923eec45899bcc 124-126,128
+  s_ce7b70e18a8c57::t_d59dda2aa3c0c8 116
+  s_ce7b70e18a8c57::t_5335e325c4daf9 41
+  s_ce7b70e18a8c57::t_bdcaa73fb9cfad 138
+  s_ce7b70e18a8c57::t_e20db58efd9ea2 162
+packages/web-demo/src/routes/counter.tsx
+  s_ce7b70e18a8c57::t_0b1e99324b4896 38,40
+  s_ce7b70e18a8c57::t_def473ae75e9f9 87-88
+packages/opentui-browser/src/wasm.ts
+  s_ce7b70e18a8c57::t_d256115f48bcdf 52-61
+packages/opentui-browser/src/ansi.ts
+  s_ce7b70e18a8c57::t_4a225b206554e5 55-142
+packages/web-demo/src/demo-lib/DemoLayout.tsx
+  s_ce7b70e18a8c57::t_52ea1082e85b43 8-9,14-20,35-39
+packages/web-demo/src/routes/dashboard.tsx
+  s_ce7b70e18a8c57::t_47eb50ee55ec60 178-179
+  s_ce7b70e18a8c57::t_1c44bf3f5cb436 64,66
+packages/web-demo/src/routes/editor.tsx
+  s_ce7b70e18a8c57::t_2f4b907f20b066 91
+  s_ce7b70e18a8c57::t_f8703af0c399f3 89
+  s_ce7b70e18a8c57::t_9f558402ec60c6 177-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "985a040468a4ef5ff72cfd5d022e4d5e382f1285",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
