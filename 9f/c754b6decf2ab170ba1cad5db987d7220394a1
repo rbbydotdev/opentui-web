@@ -1,0 +1,22 @@
+packages/opentui-browser/src/layout.ts
+  s_ce7b70e18a8c57::t_d8a35ca21c43a1 12-17,23-36
+  s_ce7b70e18a8c57::t_01aefdddd4d201 22
+  s_ce7b70e18a8c57::t_6b46322ec5f004 200-205
+  s_ce7b70e18a8c57::t_95ea7b9adfa68e 102-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "9fc754b6decf2ab170ba1cad5db987d7220394a1",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
