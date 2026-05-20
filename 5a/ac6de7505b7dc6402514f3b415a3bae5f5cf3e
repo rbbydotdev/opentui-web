@@ -1,0 +1,21 @@
+README.md
+  s_ce7b70e18a8c57::t_2a812a8eb5b8a9 133
+  s_ce7b70e18a8c57::t_8f16d0e3db590a 206-217
+  s_ce7b70e18a8c57::t_bad313091c98a1 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "5aac6de7505b7dc6402514f3b415a3bae5f5cf3e",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
