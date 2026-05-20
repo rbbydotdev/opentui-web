@@ -1,0 +1,23 @@
+packages/web-demo/src/routes/fire.tsx
+  s_ce7b70e18a8c57::t_8d50f129706527 1-206
+packages/web-demo/src/routes/life.tsx
+  s_ce7b70e18a8c57::t_5724ae76055442 1-403
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_1367ccb691cf54 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "5ad2fcb2549ad6c723f4707030eb95ab65ef6b93",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
