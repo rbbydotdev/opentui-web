@@ -1,0 +1,47 @@
+packages/opentui-browser/src/draw-helpers.ts
+  s_ce7b70e18a8c57::t_11af4d58b8412c 1-3,5-112
+  s_ce7b70e18a8c57::t_edec3f8d534023 4
+packages/web-demo/src/demo-lib/useOpentuiTerminal.ts
+  s_ce7b70e18a8c57::t_58c009a3fb5dd8 116-123
+packages/web-demo/src/routes/counter.tsx
+  s_ce7b70e18a8c57::t_d21f6fa49228a3 5
+packages/opentui-browser/src/layout.ts
+  s_ce7b70e18a8c57::t_980af7dcdef7af 81
+  s_ce7b70e18a8c57::t_ebbac22f2c18e5 12-13
+  s_ce7b70e18a8c57::t_8da33e38fe1e08 180
+  s_ce7b70e18a8c57::t_cb5114acecf9d5 80,145
+  s_ce7b70e18a8c57::t_e083ba6e1a7254 101
+  s_ce7b70e18a8c57::t_3dbb1abf1e4e8e 1-11,14-79,82-100,102-144,146-179,181
+packages/web-demo/src/routes/plasma.tsx
+  s_ce7b70e18a8c57::t_d21f6fa49228a3 4
+packages/web-demo/src/routes/editor.tsx
+  s_ce7b70e18a8c57::t_d21f6fa49228a3 5
+packages/web-demo/src/routes/dashboard.tsx
+  s_ce7b70e18a8c57::t_d21f6fa49228a3 5
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_95c44d8b8171f6 9-11
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_a7afec2c35176c 11
+packages/web-demo/src/routes/layout.tsx
+  s_ce7b70e18a8c57::t_3aa24293a81040 1,3-37,39-235
+  s_ce7b70e18a8c57::t_2d6d8a7dbc680f 2
+  s_ce7b70e18a8c57::t_0b5a9b087770c7 38
+packages/opentui-browser/package.json
+  s_ce7b70e18a8c57::t_fcb95cbac05959 16-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "d4287e2d19eda1e76656f52ca7c105fcd1ab8484",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
