@@ -1,0 +1,22 @@
+packages/opentui-browser/src/canvas-gpu-painter.ts
+  s_ce7b70e18a8c57::t_5a5ec4044426a9 53-57
+  s_ce7b70e18a8c57::t_819b23b4061e66 66-69
+  s_ce7b70e18a8c57::t_06ba84a75c5139 342-347,355-356
+  s_ce7b70e18a8c57::t_1707497a18f21e 27-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "a11c079cacf58d4b62cbb5cc85ebad27616dcf0a",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
