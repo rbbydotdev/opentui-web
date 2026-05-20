@@ -1,0 +1,60 @@
+packages/web-demo/src/routes/layout.tsx
+  s_ce7b70e18a8c57::t_8557fee9c05409 2-4,6,8-9,11-12,14,16-20
+packages/web-demo/src/demo-lib/editor-kernel.ts
+  s_ce7b70e18a8c57::t_56a452a6d79720 1-114
+packages/web-demo/src/routes/counter.tsx
+  s_ce7b70e18a8c57::t_33ef5d06100844 2-3,5,7-8,10,12,14-17
+packages/web-demo/src/demo-lib/layout-kernel.ts
+  s_ce7b70e18a8c57::t_26b2aced4c047c 1-273
+packages/web-demo/src/workers/layout-worker.ts
+  s_ce7b70e18a8c57::t_d9caeeadefbe91 1-5
+packages/web-demo/src/workers/editor-worker.ts
+  s_ce7b70e18a8c57::t_49c9435150682c 1-5
+packages/web-demo/src/demo-lib/VariantPicker.tsx
+  s_ce7b70e18a8c57::t_b5e4a18071cd02 81-83,85-93,95
+  s_ce7b70e18a8c57::t_2a1bac4a4ca49a 55
+  s_ce7b70e18a8c57::t_09894b9aafc937 29-32
+packages/web-demo/src/workers/run-worker.ts
+  s_ce7b70e18a8c57::t_e11c748112b7a0 14,21,23
+  s_ce7b70e18a8c57::t_eaa048a3c596f1 35
+  s_ce7b70e18a8c57::t_86f349c6a90302 78-79
+packages/web-demo/src/demo-lib/variants.tsx
+  s_ce7b70e18a8c57::t_554a16a48eeaad 268-270
+  s_ce7b70e18a8c57::t_97a9a8cfcea314 355
+  s_ce7b70e18a8c57::t_e761570a69b762 482-500,509,527,535-562
+  s_ce7b70e18a8c57::t_e0b9141a39eb31 387
+  s_ce7b70e18a8c57::t_209b856d744ff0 326-327
+  s_ce7b70e18a8c57::t_4de7dc82794739 81-84
+  s_ce7b70e18a8c57::t_3df735ccc76983 95-96
+  s_ce7b70e18a8c57::t_7409b935688c6d 87
+  s_ce7b70e18a8c57::t_36930c89eaf050 128-130,146
+  s_ce7b70e18a8c57::t_07086dbc85a943 300
+  s_ce7b70e18a8c57::t_97c61c17ea40be 196-199,202
+  s_ce7b70e18a8c57::t_761016faac0551 369-371
+  s_ce7b70e18a8c57::t_5c3d894782e1ef 21,23
+  s_ce7b70e18a8c57::t_8d6a106ddd9ca2 441-442,449
+  s_ce7b70e18a8c57::t_267100de9e6981 433
+  s_ce7b70e18a8c57::t_679b2f28de9a40 317
+packages/web-demo/src/routes/editor.tsx
+  s_ce7b70e18a8c57::t_e31ba1ad4a2887 2-4,6,8-9,11-15,17,19-23
+packages/web-demo/src/demo-lib/counter-kernel.ts
+  s_ce7b70e18a8c57::t_928634964fae67 1-61
+packages/web-demo/src/workers/counter-worker.ts
+  s_ce7b70e18a8c57::t_e120c1f92692d6 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "335ec81bb63f8a341d63a83edc7b63313358186b",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
