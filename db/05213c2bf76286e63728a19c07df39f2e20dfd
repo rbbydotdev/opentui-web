@@ -1,0 +1,32 @@
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_5f664e92798cb4 26
+packages/web-demo/src/demo-lib/variants.tsx
+  s_ce7b70e18a8c57::t_52807425934ae6 588
+  s_ce7b70e18a8c57::t_7a7148cdc18d94 504-518,521,790-804,807
+  s_ce7b70e18a8c57::t_eb9ee9213ec711 627
+  s_ce7b70e18a8c57::t_6598fcbd0dc5aa 647-661,664
+  s_ce7b70e18a8c57::t_2930b3e36c18cc 22,27-39
+packages/opentui-browser/src/cell-grid.ts
+  s_ce7b70e18a8c57::t_d4e0bfb9d17aa7 55-69
+packages/opentui-browser/src/canvas-gpu-painter.ts
+  s_ce7b70e18a8c57::t_b7c16e25cbd03b 154-160,191-194
+  s_ce7b70e18a8c57::t_856db1dc242f65 60-61,63
+  s_ce7b70e18a8c57::t_c0fcc60ea83775 135-143
+  s_ce7b70e18a8c57::t_215d0842fbefda 17-20,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "db05213c2bf76286e63728a19c07df39f2e20dfd",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
