@@ -1,0 +1,38 @@
+packages/opentui-browser/src/index.ts
+  s_ce7b70e18a8c57::t_e6ba1acdb4144c 5-6
+packages/opentui/packages/core/src/zig/lib-wasm.zig
+  s_ce7b70e18a8c57::t_c66a2def01713b 116-119
+  s_ce7b70e18a8c57::t_77cb3617312012 153-190
+packages/opentui-browser/src/ansi.ts
+  s_ce7b70e18a8c57::t_0329f42a08f2fd 7-10,27,29-30,36-45,48-53,55-57,60-64,66-70,73-75,77-78,83
+  s_ce7b70e18a8c57::t_9e60de94ce12f5 80-82
+packages/opentui-browser/src/buffer.ts
+  s_ce7b70e18a8c57::t_fc244bc6b02a7a 71-77
+packages/web-demo/src/demo-lib/useOpentuiTerminal.ts
+  s_ce7b70e18a8c57::t_743da2cfee339b 29-31,53-61,87-91,93-94,96-100,117,137,147
+packages/opentui-browser/src/wasm.ts
+  s_ce7b70e18a8c57::t_f3ed3d0e7e5082 50
+  s_ce7b70e18a8c57::t_b150a57965c8ff 51-64
+packages/opentui-browser/src/edit-buffer.ts
+  s_ce7b70e18a8c57::t_f0e28257a8b73c 1-85
+packages/web-demo/src/routes/__root.tsx
+  s_ce7b70e18a8c57::t_4eb3874e51408d 10
+packages/web-demo/src/routes/editor.tsx
+  s_ce7b70e18a8c57::t_87ec79f2f44f1b 1-180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "2ff17b3bc0eb7464b3364cf60b23ad2bd22c8c27",
+  "prompts": {},
+  "sessions": {
+    "s_ce7b70e18a8c57": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3289f177-9a4d-4fa8-b513-d85f4eaa8f66",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "robby <robby.polana+github@gmail.com>"
+    }
+  }
+}
